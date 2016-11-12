@@ -9,8 +9,6 @@ layout: null
 {% include css/pygment_highlights.min.css %}
 {% include css/font-awesome.min.css %}
 
-{% include css/style.scss %}
-
 /* --- General --- */
 
 body {
