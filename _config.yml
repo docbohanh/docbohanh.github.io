@@ -23,7 +23,6 @@ description: MILIKET's blog
 
 navbar-links:
   Home: ""
-  Aboutme: aboutme/
   Categories: categories/
   Projects: projects/
 nav-search: search/
