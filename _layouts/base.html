@@ -1,0 +1,25 @@
+---
+common-css:
+  - "/css/main.css"
+common-js:
+  - "/js/main.js"
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+  </body>
+
+    {% include footer-scripts.html %}
+
+</html>
