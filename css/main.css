@@ -2,17 +2,18 @@
 layout: null
 ---
 {% include css/font1.min.css %} /*Lora:400,700,400italic,700italic*/
-{% include css/font2.min.css %} /*Open+Sans:300italic,400italic,600italic,700italic,200italic,400,300,600,700,200*/
+{% include css/font2.min.css %} /*Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800*/
 {% include css/normalize.min.css %}
 {% include css/bootstrap.min.css %}
 {% include css/bootstrap-social.min.css %}
 {% include css/pygment_highlights.min.css %}
 {% include css/font-awesome.min.css %}
 <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
 /* --- General --- */
 
 body {
-  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -27,7 +28,8 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 500;
 }
 a {
   color: #008AFF;
@@ -37,7 +39,7 @@ a:focus {
   color: #0085a1;
 }
 blockquote {
-  color: transparent;
+  color: #808080;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -121,7 +123,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 100;
+  font-weight: 500;
   color: #2C3E50;
 }
 
@@ -223,7 +225,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Lato';
+  font-family: Open Sans;
   text-align: center;
   margin-bottom: 0;
 }
@@ -292,12 +294,12 @@ footer .theme-by {
   font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 24px;
+    font-size: 36px;
   }
 }
 
@@ -413,17 +415,17 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
 }
 
 .post-heading .post-meta {
-  color: #808080;
-  font-size: 18px;
-  font-style: italic;
-  margin: 0 0 10px;
+	color: #808080;
+	font-size: 18px;
+	font-style: italic;
+	margin: 0 0 10px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -495,10 +497,10 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 200;
+  font-weight: 500;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;
@@ -572,7 +574,6 @@ table tr td :last-child {
 /* --- Code blocks --- */
 
 pre {
-  background: transparent;
   font-size: 16px;
   line-height: 1.5em;
 }
