@@ -114,8 +114,4 @@ extension String {
 
 Để định nghĩa 1 **subscript**, ta dùng cú pháp `subscript(range: Range<Int>) -> String`, có nghĩa là ta sẽ dùng cú pháp `string[1...3]` để trả về String con của String gốc. Có 1 điểm hay là trong hàm này chúng ta sẽ xử lý các trường hợp ngoại lệ: `startIndex` vượt quá độ dài của String, `endIndex` vượt quá độ dài của String,... và trả về các String con tương ứng.
 
-Các bạn có thể tải về file [Extension.playground][attachment] để cùng xem các ví dụ về **Extension** đã trình bày trong bài.
-
-[attachment]:               {{ site.url }}assets/downloads/swift/2016-07-18-Extension.zip
-
 Nguồn bài viết: [http://dev.ethanify.me/swift/swift-extension](http://dev.ethanify.me/swift/swift-extension)
