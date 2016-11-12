@@ -1,1 +1,2 @@
-# docbohanh.github.io
+# Hello. This is the source code of my Website.
+This template was not made from scratch. I would like to give special thanks to daattali and his template daattali [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
