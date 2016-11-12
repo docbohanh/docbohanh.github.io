@@ -3,7 +3,7 @@ layout: post
 title: "[Swift] Xử lý các tập dữ liệu hiệu quả hơn với Map-Reduce"
 description: "Ý nghĩa và cách sử dụng của các hàm Map, Reduce, Filter & Flat Map trong Swift (có đối chiếu với các hàm tương ứng trong Ruby)"
 date: 2016-07-15 12:39:00 +0700
-categories: [swift]
+categories: [Swift]
 tags: [array, dictionary, map, reduce, filter, flat]
 comments: true
 instant_title: Kinh nghiệm sử dụng Map-Reduce
