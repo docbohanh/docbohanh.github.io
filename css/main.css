@@ -8,11 +8,8 @@ layout: null
 {% include css/bootstrap-social.min.css %}
 {% include css/pygment_highlights.min.css %}
 {% include css/font-awesome.min.css %}
-{% include css/dev/custom.scss %}
+
 {% include css/dev/mixins.scss %}
-{% include css/dev/reset.scss %}
-{% include css/dev/style.scss %}
-{% include css/dev/variables.scss %}
 
 /* --- General --- */
 
