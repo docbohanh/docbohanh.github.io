@@ -31,7 +31,7 @@ extension String {
 "12.9".toInt()              // 13
 ```
 {% include figure.html
-   filename="/assets/media/snippets/images/2016-07-18/swift-1.png"
+   filename="/assets/snippets/images/2016-07-18/swift-1.png"
    alt="Swift code snippet 1"
    caption="Khai báo extension cho String"
    instant_articles="true" %}
@@ -72,7 +72,7 @@ extension String {
 "12.9".toInt(false)         // 12
 ```
 {% include figure.html
-   filename="/assets/media/snippets/images/2016-07-18/swift-2.png"
+   filename="/assets/snippets/images/2016-07-18/swift-2.png"
    alt="Swift code snippet 2"
    caption="Khai báo thêm extension cho String"
    instant_articles="true" %}
@@ -99,7 +99,7 @@ extension String {
 }
 ```
 {% include figure.html
-   filename="/assets/media/snippets/images/2016-07-18/swift-3.png"
+   filename="/assets/snippets/images/2016-07-18/swift-3.png"
    alt="Swift code snippet 3"
    caption="Khai báo hàm toInt"
    instant_articles="true" %}
@@ -127,7 +127,7 @@ extension String {
 "Swift Extension"[16...17]          // ""
 ```
 {% include figure.html
-   filename="/assets/media/snippets/images/2016-07-18/swift-4.png"
+   filename="/assets/snippets/images/2016-07-18/swift-4.png"
    alt="Swift code snippet 4"
    caption="Khai báo và cách dùng subscript"
    instant_articles="true" %}
