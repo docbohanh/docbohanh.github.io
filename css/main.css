@@ -2,17 +2,17 @@
 layout: null
 ---
 {% include css/font1.min.css %} /*Lora:400,700,400italic,700italic*/
-{% include css/font2.min.css %} /*Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800*/
+{% include css/font2.min.css %} /*Open+Sans:300italic,400italic,600italic,700italic,200italic,400,300,600,700,200*/
 {% include css/normalize.min.css %}
 {% include css/bootstrap.min.css %}
 {% include css/bootstrap-social.min.css %}
 {% include css/pygment_highlights.min.css %}
 {% include css/font-awesome.min.css %}
-
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 /* --- General --- */
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -61,7 +61,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -106,7 +106,7 @@ img {
 
 .navbar-custom {
   background: url('../files/background/light-wool-bg.png');
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   border-bottom: 3px solid #D4DED9;
   -webkit-box-shadow: 0px 2px 3px 1px rgba(0,0,0,0.32);
   -moz-box-shadow: 0px 2px 3px 1px rgba(0,0,0,0.32);
@@ -121,7 +121,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 100;
   color: #2C3E50;
 }
 
@@ -223,7 +223,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: Open Sans;
+  font-family: 'Lato';
   text-align: center;
   margin-bottom: 0;
 }
@@ -289,10 +289,10 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 400;
 }
 
 @media only screen and (min-width: 768px) {
@@ -304,7 +304,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -388,7 +388,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -413,17 +413,17 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   right: 0;
   bottom: 0;
   display: none;
 }
 
 .post-heading .post-meta {
-	color: #808080;
-	font-size: 18px;
-	font-style: italic;
-	margin: 0 0 10px;
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0 0 10px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -495,10 +495,10 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 200;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;
