@@ -4,7 +4,7 @@ title:  "Tạo email tên miền riêng! - Cách khẳng định thương hiệu
 date:   2016-07-28
 categories: [Nên làm]
 tags: [tạo mail, tên miền riêng, domain]
-permalink: /how-to/tao-email-ten-mien-rieng/
+permalink: /blogging/tao-email-ten-mien-rieng/
 ---
 
 
