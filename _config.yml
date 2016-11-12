@@ -23,6 +23,7 @@ description: MILIKET's blog
 
 navbar-links:
   Home: ""
+  About Me: "https://thanhladev.github.io/"
   Categories: categories/
   Projects: projects/
 nav-search: search/
@@ -88,10 +89,18 @@ timezone: Asia/Ho_Chi_Minh
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 7
 
 kramdown:
-  input: GFM
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
