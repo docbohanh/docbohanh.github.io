@@ -25,7 +25,7 @@ navbar-links:
   Home: ""
   About Me: "https://thanhladev.github.io/"
   Categories: categories/
-  Projects: projects/
+  Tags: tags/
 nav-search: search/
 
 # --- Footer options --- #
