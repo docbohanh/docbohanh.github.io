@@ -1,0 +1,54 @@
+# Quy tắc 2 phút - Vượt qua trì hoãn
+Quy tắc 2 phút giúp bạn vượt qua sự trì hoãn, lười biếng, bạn phải thực hiện ngay chứ đừng bao giờ nói “Không”.
+
+Nhiều người hay trì hoãn vì họ không biết nên làm gì tiếp theo. Họ luôn nói “Tôi sẽ bắt đầu nhanh thôi” nhưng nào thì lướt web để tìm thông tin, gọi điện thoại cho người bạn hay rồi nhắn tin cho chị gái. Bạn mất quá nhiều thời gian mà chưa bắt tay làm việc được. Sự thật thì nhiều việc có thể được hoàn thành trong chưa đầy 2 phút.
+
+Theo tác phẩm “Getting Things Done” của David Ailen có quy tắc 2 phút nói rằng: Nếu một công việc nào đó bạn có thể hoàn thành trong vòng hai phút hoặc ít hơn, hãy ngay lập tức thực hiện nó.
+
+Gần đây tôi bắt đầu theo quy tắc đơn giản này không những để chọn lọc và giải quyết ngay những công việc nhỏ, tránh tồn đọng mà còn giảm nhẹ gánh nặng tâm lý khi nhìn thấy núi việc mỗi ngày.
+
+Đây là một chiến lược đơn giản đến mức không thể đơn giản hơn.
+
+Hầu hết công việc mà bạn trì hoãn không khó để làm, bạn có đủ khả năng để thực hiện chúng, bạn chỉ đang né tránh bắt đầu thực hiện vì một vài lý do nào đó.
+
+Quy tắc 2 phút giúp bạn vượt qua sự trì hoãn, lười biếng, bạn phải thực hiện chứ không phải nói “Không”.
+
+Bạn cũng cần nhớ 2 nguyên tắc:
+
+Nguyên tắc 1: Nếu công việc chỉ tốn của bạn chưa đến 2 phút, hãy làm ngay.
+
+Có rất nhiều việc lặt vặt thường ngày bạn lười chẳng làm ngay trong khi bạn có thể chẳng mất đến 2 phút để hoàn thành. Ví dụ như đổ rác, bỏ đồ vào máy giặt, gấp quần áo, cất cuốn sách lên giá,… Chính sự lười biếng và dồn công việc lại cuối ngày hay cuối tuần khiến bạn như luôn ngập trong núi việc.
+
+Hãy tạo thói quen làm việc nhỏ ngay lập tức vì nó chỉ tốn của bạn không đến 2 phút. Hãy thực hiện theo quy tắc này và hành động ngay.
+
+Nguyên tắc 2: Để tạo một thói quen mới, hãy bắt đầu làm việc trong 2 phút.
+
+Bạn không thể hoàn thành mọi ước mơ, mục tiêu trong vòng 2 phút. Dĩ nhiên là vậy. Nhưng để bắt đầu chỉ cần 2 phút.
+
+Viết bài: mở sổ ra và bắt đầu tập viết trong 2 phút.
+
+Học kỹ năng nghe: mở mp3 lên và tập nghe trong 2 phút.
+
+Đọc sách: đọc trang đầu tiên của cuốn sách trong 2 phút.
+
+Nguyên tắc 2 phút khiến bạn dấn thân vào công việc, khi đó bạn sẽ dễ dàng tiếp tục công việc đó thay vì cứ ngồi trì hoãn mãi.
+
+Nghe có vẻ như chiến lược này quá là bình thường nhưng nó lại phát huy tác dụng cho bất kì mục tiêu nào cũng vì một lí do đơn giản: nguyên lí của đời sống thực.
+
+Nguyên lý của đời sống thực
+
+Trong định luật về quán tính, Isaac Newton đã nói: “Nếu một vật không chịu tác dụng của lực nào hoặc chịu các lực có hợp lực bằng không thì vật đang đứng yên sẽ tiếp tục đứng yên, vật đang chuyển động thẳng đều sẽ tiếp tục chuyển động thẳng đều”. Điều này cũng áp dụng cho con người giống như cho chính những quả táo đang rơi.
+
+Quy tắc 2 phút có tác dụng đối với các mục tiêu dù lớn hay nhỏ do những quán tính của cuộc sống. Một khi bạn bắt đầu làm việc gì đó, mọi việc sẽ trở nên dễ dàng hơn. Tất cả những điều tốt đẹp sẽ xảy ra một khi bạn bắt đầu.
+
+Muốn trở thành nhà văn tài năng? Hãy bắt đầu viết 1 câu văn, rồi bạn sẽ thấy mình ngồi viết liền cả giờ đồng hồ.
+
+Muốn có thói quen ăn uống lành mạnh hơn? Hãy ăn một miếng trái cây, rồi bạn sẽ có động lực ăn các món tốt cho sức khỏe khác.
+
+Muốn hình thành thói quen đọc? Hãy bắt đầu đọc trang đầu tiên, rồi có khi bạn đọc xong cả quyển sách lúc nào chẳng biết.
+
+Muốn đi chạy 3 lần/tuần? Mỗi sáng thứ hai, tư, sáu, hãy xỏ giày và đi ra khỏi cửa, bạn sẽ chạy được vài vòng thay vì nằm bẹp trên giường ngủ nướng.
+
+Phần quan trọng nhất của bất kì thói quen mới nào là việc bắt đầu – đó là mỗi lần bắt đầu. Điều này không chỉ về hiệu suất, mà còn là việc hành động một cách kiên định. Quy tắc 2 phút không nói về kết quả bạn đạt được, mà lại về quá trình thực sự làm công việc đó. Nó đặc biệt hiệu quả đối với những người tin rằng phương pháp còn quan trọng hơn mục tiêu. Trọng tâm nhằm vào việc bắt đầu hành động và để cho mọi thứ bắt đầu từ đó.
+
+Tôi không dám đảm bảo quy tắc này có phát huy tác dụng với bạn hay không, nhưng tôi chắc rằng nó sẽ không có tác động gì nếu bạn không thử. Bạn có thể làm nên cuộc cách mạng với chỉ chưa đầy 2 phút. Vậy còn chần chờ gì nữa, hãy bắt đầu ngay thôi.
