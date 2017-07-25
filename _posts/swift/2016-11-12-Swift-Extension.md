@@ -112,6 +112,30 @@ extension String {
 "Swift Extension"[16...17]          // ""
 ```
 
+update Swift 3
+
+```swift
+extension String {
+
+    subscript (r: CountableClosedRange<Int>) -> String? {
+        get {
+            guard r.lowerBound >= 0,
+            let startIndex = self.index(self.startIndex, offsetBy: r.lowerBound, limitedBy: self.endIndex),
+            let endIndex = self.index(startIndex, offsetBy: r.upperBound - r.lowerBound, limitedBy: self.endIndex) else { return nil }
+            return self[startIndex...endIndex]
+        }
+    }
+}
+
+"Swift Extension"[0...4]        //Swift
+"Swift Extension"[11...14]      //sion
+"Swift Extension"[15...17]      //nil
+
+let str = "Swift extensions"
+let max = min(19, str.characters.count - 1)
+str[0...max]                    //Swift Extension
+```
+
 Để định nghĩa 1 **subscript**, ta dùng cú pháp `subscript(range: Range<Int>) -> String`, có nghĩa là ta sẽ dùng cú pháp `string[1...3]` để trả về String con của String gốc. Có 1 điểm hay là trong hàm này chúng ta sẽ xử lý các trường hợp ngoại lệ: `startIndex` vượt quá độ dài của String, `endIndex` vượt quá độ dài của String,... và trả về các String con tương ứng.
 
-Nguồn bài viết: [http://dev.ethanify.me/swift/swift-extension](http://dev.ethanify.me/swift/swift-extension)
+Nguồn tham khảo: [http://dev.ethanify.me/swift/swift-extension](http://dev.ethanify.me/swift/swift-extension)
