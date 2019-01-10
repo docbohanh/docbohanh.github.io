@@ -35,17 +35,17 @@ nav-search: search/
 author:
   name: MILIKET
   email: "huuthanhla@gmail.com"
-  facebook: docbohanh  # eg. vietanhdev
-  github: docbohanh    # eg. vietanhdev
-  #twitter: vietanhdev   # eg. vietanhdev
-  #google-plus: +vietanhdev   # eg. +DeanAttali or 109424658772469020925
-  #stackoverflow: vietanhdev  # eg. "3943160/vietanhdev"
-  #linkedin: vietanhdev  # eg. vietanhdev
-  #xing: vietanhdev      # eg. vietanhdev
-  #snapchat: vietanhdev  # eg. vietanhdev
-  #instagram: vietanhdev # eg. vietanhdev
-  #youtube: vietanhdev   # eg. user/vietanhdev or channel/vietanhdev
-  #spotify: vietanhdev   # eg. vietanhdev
+  facebook: docbohanh  # eg. thanhladev
+  github: docbohanh    # eg. thanhladev
+  #twitter: thanhladev   # eg. thanhladev
+  #google-plus: +thanhladev   # eg. +DeanAttali or 109424658772469020925
+  #stackoverflow: thanhladev  # eg. "3943160/thanhladev"
+  #linkedin: thanhladev  # eg. thanhladev
+  #xing: thanhladev      # eg. thanhladev
+  #snapchat: thanhladev  # eg. thanhladev
+  #instagram: thanhladev # eg. thanhladev
+  #youtube: thanhladev   # eg. user/thanhladev or channel/thanhladev
+  #spotify: thanhladev   # eg. thanhladev
 
 # Select which links to show in the footer
 footer-links-active:
