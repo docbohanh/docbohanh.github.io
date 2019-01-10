@@ -282,6 +282,9 @@ footer .theme-by {
   font-weight: 300;
   margin-bottom: 10px;
 }
+.post-subtitle {
+  font-size: 13px;
+}
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
